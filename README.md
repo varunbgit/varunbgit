@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @varunbgit
-- 👀 I’m interested in DevOps & Cloud also do Coding , Web Developement and fun . 
-- 🌱 I’m currently learning Data Structuers and Algorithum & Cloud Concepts.
-- 💞️ I’m looking to collaborate on DevOps and Java Language .
-- 📫 How to reach me LinkedIn :https://www.linkedin.com/in/varun-bansal-86673920b/  Twitter: https://twitter.com/Varunb_01
+- 🌱 I’m currently interning at Razorpay Software as Software Development Engineer.
+- 👀 I’m interested in Software Development and  Cloud computing, Backend Developement in Java (SpringBoot), GoLang. 
+- 💞️ I’m open to collaborate on Development, cloud computing, tech community talks.
+- 📫 How to reach me LinkedIn :https://www.linkedin.com/in/varunb01  Twitter: https://twitter.com/Varunb_01
 
 <!---
 varunbgit/varunbgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
